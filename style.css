@@ -1,0 +1,57 @@
+.bg-container{
+    background-color:#ffffff;
+    padding:100px;
+}
+.login-form{
+    color:black;
+    font-style:bold;
+    font-weight:500;
+    font-family:"Roboto";
+    font-size:30px;
+}
+.paragraph{
+    color:black;
+    font-size:15px;
+    font-family: "Roboto";
+    font-weight:100;
+}
+.button{
+    border-radius:8px;
+    margin-top:30px;
+    border-width:1px;
+    font-family: "Roboto";
+    font-weight:500;
+    font-size:17px;
+    padding:20px;
+}
+.heading-form{
+    font-size:20px;
+    font-family:"Roboto";
+    font-weight:500;
+    font-style: bold;
+    margin-top:20px;
+}
+.password{
+    color:blue;
+    font-size:15px;
+    font-family:"Roboto";
+    font-weight:500;
+    font-style: bold;
+    margin-top:25px;
+}
+.css{
+    list-style-type:square;
+    margin:20px;
+}
+.member-form{
+    font-size:15px;
+    font-family:"Roboto";
+    font-weight:500;
+    font-style: bold;
+    margin-top:25px;
+    
+}
+.image-size{
+    width:20px;
+    height:20px;
+}
